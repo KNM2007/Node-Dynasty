@@ -1,0 +1,20 @@
+{
+  "name": "Aarav",
+  "company_id": "TCS20261001",
+  "score": 60,
+  "summary": "Aarav has worked an average of 7.3 hours per day over the last 3 months, which is slightly below the desired threshold, and completed only 1 project, indicating room for improvement in productivity. He has taken 3 leaves, which is within acceptable limits. Aarav has also shown dedication by putting in an average of 0.7 hours of extra time per day.",
+  "strengths": [
+    "Dedication to work as evidenced by 0.7 hours of extra time per day",
+    "Reliable attendance with only 3 leaves taken in 3 months",
+    "Consistent work hours with an average of 7.3 hours per day"
+  ],
+  "weaknesses": [
+    "Below par work hours with an average of 7.3 hours per day, which is less than the desired 8 hours",
+    "Low project completion rate with only 1 project completed in 3 months"
+  ],
+  "improvement_suggestions": [
+    "Increase average work hours to at least 8 hours per day to meet productivity expectations",
+    "Focus on completing more projects to demonstrate output and efficiency",
+    "Analyze tasks to ensure extra time is being utilized effectively and efficiently"
+  ]
+}
